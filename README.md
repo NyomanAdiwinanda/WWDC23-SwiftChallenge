@@ -1,6 +1,8 @@
 # FlagSemaphore (WWDC Swift Student Challenge 2023)
 Built with SwiftUI, Users can type any letters or words to see how it is translated into a semaphore code.
 
+![semaphore-example](https://user-images.githubusercontent.com/65802394/233253725-5d1d85aa-5617-4e81-9b67-3b7da0e289d8.gif)
+
 # What is Flag Semaphore?
 
 Flag Semaphore is a method of sending signals or messages using simple tools, such as flags. This method is carried out by saving both hands to form a certain position according to a predetermined formation. Flags play a role in clarifying the direction of hand movements when conveying messages.
