@@ -37,7 +37,12 @@ struct InputView: View {
                 }
                 .frame(width: 250)
                 .padding(5)
-                .background(Color(red: 64 / 255, green: 144 / 255, blue: 60 / 255))
+                .disabled(textInput.count == 0 ? true : false)
+                .background(Color(
+                    red: textInput.count == 0 ? 169/255 : 64 / 255,
+                    green: textInput.count == 0 ? 169/255 : 144 / 255,
+                    blue: textInput.count == 0 ? 169/255 : 60 / 255
+                ))
                 .cornerRadius(15)
                 .foregroundStyle(.white)
             }
