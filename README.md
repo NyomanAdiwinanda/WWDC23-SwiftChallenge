@@ -1,4 +1,4 @@
-# FlagSemaphore (WWDC Swift Student Challenge 2023)
+# FlagSemaphore (WWDC Swift Student Challenge 2023) -  Accepted
 Built with SwiftUI, Users can type any letters or words to see how it is translated into a semaphore code.
 
 The English alphabet comprises of twenty-six letters ranging from A to Z, each assigned with a specific angle value. The animation of the semaphore is produced through the utilization of a rotational effect, which is determined by the corresponding angle value of the given letter.
